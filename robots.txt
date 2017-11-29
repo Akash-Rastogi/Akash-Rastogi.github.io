@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://akash-rastogi.github.io/sitemap.xml 
